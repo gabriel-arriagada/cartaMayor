@@ -1,0 +1,52 @@
+﻿<Window x:Class="CartaMayor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CARTA MAYOR" Height="626.119" Width="1171.268" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Icon="Imagenes/icono_frm.png">
+    <Grid Margin="0,0,-6,1">
+        <Image HorizontalAlignment="Right" Width="1171" Source="Imagenes/fondo.png" RenderTransformOrigin="0.493,0.561" Stretch="UniformToFill" Margin="0,0,0,-1"/>
+        <Image x:Name="p_carta1" HorizontalAlignment="Left" Height="239" Margin="111,114,0,0" VerticalAlignment="Top" Width="186" Source="Imagenes/poza_carta.png" />
+        <Image x:Name="p_carta2" HorizontalAlignment="Left" Height="239" Margin="863,114,0,0" VerticalAlignment="Top" Width="185" Source="Imagenes/poza_carta.png" />
+        <Label x:Name="aviso" Content="" HorizontalAlignment="Left" Margin="999,10,0,0" VerticalAlignment="Top" Width="162" Height="60" Foreground="#FFFFFDFD" FontSize="10" FontFamily="Tahoma"/>
+        <Image x:Name="p_mazo" HorizontalAlignment="Left" Height="180" Margin="333,148,0,0" VerticalAlignment="Top" Width="496" Stretch="UniformToFill"/>
+        <Button x:Name="b_barajar" HorizontalAlignment="Left" Margin="519,148,0,0" VerticalAlignment="Top" Width="132" Height="191" Click="b_barajar_Click">
+            <Image Height="191" Width="132" Source="Imagenes/dorso.png" Cursor="Hand" ToolTip="Barajar Mazo"/>
+
+        </Button>
+        <Label x:Name="L_nombreJuga1" Content="" HorizontalAlignment="Left" Margin="111,19,0,0" VerticalAlignment="Top" Height="44" Width="162" FontFamily="Showcard Gothic" FontSize="30" Foreground="White" Background="{x:Null}"/>
+        <Label x:Name="L_nombreJuga2" Content="" HorizontalAlignment="Left" Margin="863,19,0,0" VerticalAlignment="Top" Height="44" Width="163" FontFamily="Showcard Gothic" FontSize="30" Foreground="White"/>
+        <Image HorizontalAlignment="Left" Height="192" Margin="76,404,0,0" VerticalAlignment="Top" Width="264" Source="Imagenes/fondoApuestas.png" Stretch="UniformToFill"/>
+        <Image HorizontalAlignment="Left" Height="191" Margin="813,404,0,0" VerticalAlignment="Top" Width="268" Source="Imagenes/fondoApuestas.png" Stretch="UniformToFill"/>
+        <Label Content="Apuestas" HorizontalAlignment="Left" Margin="491,502,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.562,0.255" Width="184" Foreground="White" FontSize="36" FontFamily="Showcard Gothic"/>
+        <TextBox x:Name="t_apuestaJugador1" HorizontalAlignment="Left" Height="58" Margin="111,524,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189" FontFamily="Showcard Gothic" FontSize="40" Foreground="White" BorderBrush="White" MaxLength="7" BorderThickness="3" KeyUp="t_apuestaJugador1_KeyUp" Cursor="Pen" PreviewTextInput="t_apuestaJugador1_PreviewTextInput">
+            <TextBox.Background>
+                <ImageBrush/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="t_apuestaJugador2" Height="58" Margin="850,524,123,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Showcard Gothic" FontSize="40" Foreground="White" BorderBrush="White" MaxLength="7" BorderThickness="3" Cursor="Pen" PreviewTextInput="t_apuestaJugador2_PreviewTextInput">
+            <TextBox.Background>
+                <ImageBrush/>
+            </TextBox.Background>
+        </TextBox>
+        <Image HorizontalAlignment="Left" Height="115" Margin="139,404,0,0" VerticalAlignment="Top" Width="132" Source="Imagenes/fichas.png" Stretch="UniformToFill"/>
+        <Image HorizontalAlignment="Left" Height="115" Margin="873,404,0,0" VerticalAlignment="Top" Width="132" Source="Imagenes/fichas.png" Stretch="UniformToFill"/>
+        <Label x:Name="L_acumulado1" Content="" HorizontalAlignment="Left" Margin="111,63,0,0" VerticalAlignment="Top" Width="162" FontFamily="Showcard Gothic" FontSize="24" Foreground="White"/>
+        <Label x:Name="L_acumulado2" Content="" HorizontalAlignment="Left" Margin="863,63,0,0" VerticalAlignment="Top" Width="163" FontFamily="Showcard Gothic" FontSize="24" Foreground="White"/>
+        <Button x:Name="btn_jugar" Content="" HorizontalAlignment="Left" Margin="519,381,0,0" VerticalAlignment="Top" Width="132" Click="btn_jugar_Click" Foreground="White" Height="40" FontFamily="Showcard Gothic" FontSize="18" Cursor="Hand">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="33" Margin="501,19,0,0" VerticalAlignment="Top" Width="173"  RenderTransformOrigin="-2.777,0.618"  Stretch="Fill" Source="Imagenes/pintas.png" />
+        <Label x:Name="lbl_atras" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="68" Width="73" Cursor="Hand" MouseDown="lbl_atras_MouseDown" ToolTip="Volver a modo de juego y jugadores">
+            <Image Height="56" Width="63" Source="Imagenes/atras.png"/>
+        </Label>
+        <Label x:Name="label_ganador" Content="" HorizontalAlignment="Left" Margin="511,85,0,0" VerticalAlignment="Top" Height="41" Width="244" FontFamily="Showcard Gothic" FontSize="22" Foreground="White">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+        <Image HorizontalAlignment="Left" Height="53" Margin="699,504,0,0" VerticalAlignment="Top" Width="47"  Stretch="UniformToFill"/>
+
+
+    </Grid>
+</Window>

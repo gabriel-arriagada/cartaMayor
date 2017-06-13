@@ -1,0 +1,43 @@
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\CartaMayor.csprojResolveAssemblyReference.cache
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\MainWindow.baml
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\MainWindow.g.cs
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\App.g.cs
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\CartaMayor_MarkupCompile.cache
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\CartaMayor.g.resources
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\bin\Debug\CartaMayor.exe.config
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\bin\Debug\CartaMayor.exe
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\bin\Debug\CartaMayor.pdb
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\CartaMayor.Properties.Resources.resources
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\CartaMayor.csproj.GenerateResource.Cache
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\CartaMayor.exe
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Unidad 2 (Windows Presentation Fundation) Windows Phone\Hechas por el profe\CartaMayor\CartaMayor\obj\Debug\CartaMayor.pdb
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\bin\Debug\CartaMayor.exe.config
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\CartaMayor.exe
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\CartaMayor.pdb
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\bin\Debug\CartaMayor.exe
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\bin\Debug\CartaMayor.pdb
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\CartaMayor.csprojResolveAssemblyReference.cache
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\Inicio.baml
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\MainWindow.baml
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\Inicio.g.cs
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\MainWindow.g.cs
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\App.g.cs
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\CartaMayor_MarkupCompile.cache
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\CartaMayor.g.resources
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\CartaMayor.Properties.Resources.resources
+C:\Users\gabo\Documents\Visual Studio 2012\Projects\Proyectos\CartaMayor\CartaMayor\obj\Debug\CartaMayor.csproj.GenerateResource.Cache
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\bin\Debug\CartaMayor.exe.config
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\CartaMayor.exe
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\CartaMayor.pdb
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\bin\Debug\CartaMayor.exe
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\bin\Debug\CartaMayor.pdb
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\CartaMayor.csprojResolveAssemblyReference.cache
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\Inicio.baml
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\MainWindow.baml
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\Inicio.g.cs
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\MainWindow.g.cs
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\App.g.cs
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\CartaMayor_MarkupCompile.cache
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\CartaMayor.g.resources
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\CartaMayor.Properties.Resources.resources
+C:\Users\gabo\Desktop\CartaMayor\CartaMayor\obj\Debug\CartaMayor.csproj.GenerateResource.Cache
